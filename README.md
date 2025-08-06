@@ -10,13 +10,10 @@ Pybullet으로 시뮬레이터까지 연동
 
 
 
-공인식
+공인식영상
+![Image](https://github.com/user-attachments/assets/72ae8289-d855-417d-ae82-b32183dd4fe0)
 
 
-https://github.com/user-attachments/assets/af6cf863-da8e-4cd5-8cce-ca4528fcb9fe
-
-
-
-Youtube
-[https://www.youtube.com/shorts/IJl2cjO0ZE0](https://github.com/user-attachments/assets/458daee5-0371-4629-b760-f8e34d4f3f97)
+동작영상
+![Image](https://github.com/user-attachments/assets/298241cd-1096-4021-a4de-9de23f13999d)
 
