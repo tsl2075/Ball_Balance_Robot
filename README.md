@@ -1,7 +1,6 @@
 ## <img width="40" height="40" alt="Image" src="https://github.com/user-attachments/assets/50339187-fcce-4733-be69-e5b165425feb" /> 프로젝트 개요
 공의 밸런스를 잡기위해 모터를 제어하고 공의 객체를 인식하는 프로젝트입니다.
-카메라를 이용해서 Picamera2(libcamera 기반)라이브러리로 이미지를 받아와서 OpenCV (cv2)를 통해 공을 인식,  
-추적하고 PID제어를 이용해서 안정적인 모터 제어를 하도록 하는 프로젝트입니다.
+
 
 ## 개발 개요
 - 프로젝트 : Ball Balancing Robot
@@ -23,6 +22,8 @@
 - Raspberry Pi
 
 ## 세부설명
+카메라를 이용해서 Picamera2(libcamera 기반)라이브러리로 이미지를 받아와서 OpenCV (cv2)를 통해 공을 인식,  
+추적하고 PID제어를 이용해서 안정적인 모터 제어를 하도록 하는 프로젝트입니다.
 HSV마스킹 코드로 색상필터링을 한 후 공의 인식률을 높였습니다.
 그리고 공을 추적해서 실시간 그래프로 움직임을 저장해서 PID값을 찾도록 유도
 
