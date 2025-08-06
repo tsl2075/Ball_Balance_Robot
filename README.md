@@ -11,9 +11,11 @@ Pybullet으로 시뮬레이터까지 연동
 
 
 공인식영상
-![Image](https://github.com/user-attachments/assets/72ae8289-d855-417d-ae82-b32183dd4fe0)
+![ball](https://github.com/user-attachments/assets/bc539559-c051-4893-992d-a977a46fa279)
+
 
 
 동작영상
-![Image](https://github.com/user-attachments/assets/298241cd-1096-4021-a4de-9de23f13999d)
+![bbr](https://github.com/user-attachments/assets/9d9a7ccb-f29c-4c8e-bb3e-a081bc743fe6)
+
 
