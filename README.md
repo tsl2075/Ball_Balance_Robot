@@ -32,12 +32,12 @@ PID제어에서 Auto PID Tuning으로 일정시간 마다 PID값을 반복으로
 Pybullet을 활용해 시뮬레이터를 구현해서 PID값을 찾도록 시도했지만, 실패했습니다.
 
 
-공인식영상  
+### 공인식영상  
 ![ball](https://github.com/user-attachments/assets/bc539559-c051-4893-992d-a977a46fa279)
 
 
 
-동작영상  
+### 동작영상  
 ![bbr](https://github.com/user-attachments/assets/9d9a7ccb-f29c-4c8e-bb3e-a081bc743fe6)
 
 
