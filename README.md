@@ -1,4 +1,4 @@
-## 프로젝트 개요
+## <img width="40" height="40" alt="Image" src="https://github.com/user-attachments/assets/50339187-fcce-4733-be69-e5b165425feb" /> 프로젝트 개요
 공의 밸런스를 잡기위해 모터를 제어하고 공의 객체를 인식하는 프로젝트입니다.
 카메라를 이용해서 Picamera2(libcamera 기반)라이브러리로 이미지를 받아와서 OpenCV (cv2)를 통해 공을 인식,  
 추적하고 PID제어를 이용해서 안정적인 모터 제어를 하도록 하는 프로젝트입니다.
@@ -9,7 +9,7 @@
 - 개발 언어 : Python
 
 
-## 목표
+## <img width="40" height="40" alt="Image" src="https://github.com/user-attachments/assets/b37ebdf0-b93d-4a64-8740-0d5b58d975f7" /> 목표
 - OpenCV를 이용해 공을 정확하게 인식하고 추적  
 - PID의 원리를 이해하고 사용해서 안정적인 모터제어  
 - Pybullet으로 시뮬레이터까지 연동  
@@ -19,7 +19,7 @@
 - YOLO
 - PyQT5
 
-## Board
+## <img width="40" height="40" alt="Image" src="https://github.com/user-attachments/assets/d2cb68cc-4a4d-4a2b-8ab9-24a5550d5e3f" /> Board
 - Raspberry Pi
 
 ## 세부설명
